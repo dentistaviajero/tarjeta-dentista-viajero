@@ -1,0 +1,17 @@
+TARJETA DENTISTA VIAJERO - PAQUETE COMPLETO HTML SIN JAVASCRIPT
+
+CONTENIDO: index.html y todas las imagenes .webp necesarias.
+
+PARA PUBLICAR EN GITHUB DESDE CELULAR:
+1. Descarga este ZIP y extrae su contenido.
+2. Entra al repositorio https://github.com/dentistaviajero/tarjeta-dentista-viajero
+3. Selecciona rama main y abre la raiz del repositorio.
+4. Sube index.html y todos los archivos .webp extraidos, SIN meterlos en una subcarpeta.
+5. Si GitHub pide reemplazar archivos, acepta. Confirma con Commit changes.
+6. Puedes dejar app.js, config.js y styles.css antiguos: el nuevo index.html NO los usa.
+7. Revisa Settings > Pages: main y /(root), y espera el despliegue.
+8. Prueba desde otra red y otro telefono: https://dentistaviajero.github.io/tarjeta-dentista-viajero/
+
+IMPORTANTE: ERR_CONNECTION_TIMED_OUT significa que el navegador no obtuvo respuesta de github.io. Si sigue ocurriendo, NO es un error del HTML: revisa red movil/WiFi, DNS privado, VPN o acceso al dominio desde otra conexion. No se puede garantizar solucionarlo cambiando archivos.
+
+SIN JS: los botones usan enlaces HTML; las secciones son anclas dentro de la misma pagina. Los estilos CSS estan incrustados en index.html.
