@@ -1,0 +1,11 @@
+TARJETA DENTISTA VIAJERO - VERSION ESTATICA SIN JAVASCRIPT
+
+1. Abre https://github.com/dentistaviajero/tarjeta-dentista-viajero
+2. Sube el archivo index.html de este ZIP a la RAIZ de la rama main y acepta reemplazar el existente.
+3. NO BORRES los archivos .webp que ya estan en el repositorio: la tarjeta los utiliza.
+4. No hace falta subir app.js, config.js ni styles.css; esta version no depende de ellos.
+5. Espera a que GitHub Pages publique los cambios y abre https://dentistaviajero.github.io/tarjeta-dentista-viajero/
+
+La direccion publica y el QR asociado no cambian. La portada y secciones funcionan sin JavaScript.
+
+IMPORTANTE: Esta version reutiliza las imagenes existentes en GitHub, por eso deben permanecer alli.
